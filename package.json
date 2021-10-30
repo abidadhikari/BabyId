@@ -1,0 +1,26 @@
+{
+  "name": "babyid",
+  "version": "1.0.1",
+  "description": "Generate 7 character baby/small id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babyid",
+    "slugid",
+    "miniurl",
+    "urlshortner",
+    "nanoid"
+  ],
+  "author": "Abid Adhikari",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abidadhikari/BabyId.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abidadhikari/BabyId/issues"
+  },
+  "homepage": "https://github.com/abidadhikari/BabyId#readme"
+}
