@@ -48,4 +48,4 @@ const shortParam=BabyId.generate("nine);
 console.log(shortParam);
 //
 ```
-# BabyId
+
