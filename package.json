@@ -1,6 +1,6 @@
 {
   "name": "babyid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate 7 character baby/small id",
   "main": "index.js",
   "scripts": {
